@@ -24,9 +24,10 @@ SuccessPage.jsx - Shown after checkout is complete
 data/ - Folder containing mock product data
 products.json - Product info like name, price, image etc.
 Overview
-This is a basic e-commerce web app that allows users to:
 
-# Browse a list of products
+# This App e-commerce web app that allows users to:
+
+- Browse a list of products
 - Add/remove products to a cart
 - View cart and checkout
 - See an order confirmation page
