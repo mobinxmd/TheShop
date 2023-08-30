@@ -35,3 +35,5 @@ The app uses React components to display the various UI elements. Mock product d
 
 # Usage
 The app can be run by opening index.html in a web browser. Users can interact with the UI to browse products and simulate the online shopping experience.
+
+# [Check it out here!](https://mobinmd-theshop.netlify.app/)
