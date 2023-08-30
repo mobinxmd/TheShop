@@ -1,6 +1,14 @@
 # E-Commerce App
 This is a sample e-commerce web app built with React.
 
+#Technologies used:
+- React
+- javaScript
+- Html
+- TailwindCss
+- CSS
+
+
 # Contents
 -The project contains the following files:
 
