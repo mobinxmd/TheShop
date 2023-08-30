@@ -1,7 +1,7 @@
-E-Commerce App
+#E-Commerce App
 This is a sample e-commerce web app built with React.
 
-Contents
+#Contents
 The project contains the following files:
 
 index.html - The main HTML page that loads the React app
@@ -18,11 +18,11 @@ products.json - Product info like name, price, image etc.
 Overview
 This is a basic e-commerce web app that allows users to:
 
-Browse a list of products
+#Browse a list of products
 Add/remove products to a cart
 View cart and checkout
 See an order confirmation page
 The app uses React components to display the various UI elements. Mock product data is imported from a JSON file.
 
-Usage
+#Usage
 The app can be run by opening index.html in a web browser. Users can interact with the UI to browse products and simulate the online shopping experience.
