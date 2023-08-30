@@ -1,7 +1,7 @@
 # E-Commerce App
 This is a sample e-commerce web app built with React.
 
-#Technologies used:
+# Technologies used:
 - React
 - javaScript
 - Html
