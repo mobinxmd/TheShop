@@ -27,10 +27,10 @@ function handleOrder(){
 }
 
   return (
-    <div className={` px-6  md:py-4 absolute h-[90%] md:h-full z-10 md:static left-0 sm:right-0 rounded-lg shadow-md md:shadow-none  bg-slate-300 flex flex-col justify-between`}>
+    <div className={` px-6  md:py-4 absolute h-[89%] md:h-full z-10 md:static left-2 top-1 sm:right-0 rounded-lg shadow-md md:shadow-none  bg-slate-300 flex flex-col justify-between`}>
       <div>
-        <h1 className="font-semibold py-3  text-pink-900">Order Summary</h1>
-        <div className="gap-2 grid max-h-96  overflow-auto">
+        <h1 className="font-semibold py-2 sm:py-3  text-pink-900">Order Summary</h1>
+        <div className="gap-2 grid max-h-72 sm:max-h-96 overflow-auto">
           {carts.length === 0 ? (
             <CartEmpty />
           ) : (
