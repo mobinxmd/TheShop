@@ -7,7 +7,7 @@ function Navbar({carts, setIsOpen}) {
         <span className=" font-semibold">Shop</span>
       </h1>
 
-      <div className="hover:bg-white cursor-pointer hover:text-red-900 h-full flex justify-center items-center transition-colors ease-in-out">
+      <div className="hover:bg-white cursor-pointer invisible md:visible hover:text-red-900 h-full flex justify-center items-center transition-colors ease-in-out">
         <span className="px-3 font-semibold">Products</span>
       </div>
 
