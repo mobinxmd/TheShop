@@ -111,7 +111,7 @@ function App() {
     <>
         <Navbar carts={carts} setIsOpen={setIsOpen}/>
         <div className="m-auto  md:px-10 pt-3 pb-16 flex w-full h-screen gap-5 relative ">
-        <div className={` ${!isOpen ? "w-full" : "w-4/6"} flex justify-center items-center`}>
+        <div className={` ${!isOpen ? "w-full" : "md:w-4/6"} flex justify-center items-center`}>
           <div className={`absolute transition ease-in-out  ${!ordered ? "invisible -z-10 scale-50" :"visible z-10 scale-100"} py-20 md:px-32 px-3 flex items-center gap-2 bg-pink-900  rounded-lg`} >
             <span className="md:text-3xl text-2xl text-green-500"><BsPatchCheckFill /> </span>
             <p className="text-white text-2xl">Your order is Complete!</p>
